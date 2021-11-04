@@ -2,7 +2,7 @@
 Master Thesis "Price Differentiation in German Online Retailing - An Empirical Analysis"
 <br>
 <br>
-<h3>Filesnames</h3>
+<h3>Filenames</h3>
 <strong>/Scraping... </strong> 
 <br>
 "Kraken_Namewebsite" - Scraping scripts for individual websites
