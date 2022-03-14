@@ -1,5 +1,5 @@
 # Price-Differentiation
-Master Thesis "Price Differentiation in German Online Retailing - An Empirical Analysis"
+Master Thesis "Price Differentiation in German Online Retailing - An Empirical Analysis" by Maximilian Piepelow
 <br>
 <br>
 <h3>Filenames</h3>
